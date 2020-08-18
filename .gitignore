@@ -4,6 +4,7 @@ __pycache__/
 # Secrets
 models/CREDENTIALS.py
 OTHER/
+app/config.py
 
 # Flask stuff:
 instance/
